@@ -34,6 +34,5 @@ def play_game():
     
     return result
 
-
 play_game()
     
